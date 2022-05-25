@@ -1,4 +1,4 @@
-## [**catIcon**](https://caticon.netlify.app/)  ![logo](/img/logoGit.png)
+## [**catIcon**](https://caticon.netlify.app/)  ![logo](https://github.com/imuttamsaran/caticon/blob/master/img/logoGit.png)
 
 Website of the catIcon svg icons community, hosted on netlify.
 
@@ -9,7 +9,7 @@ Website of the catIcon svg icons community, hosted on netlify.
 ** See image**  
 Edit red part only shows in below image.
 
-![This is an image](/img/codeImage.png)
+![This is an image](https://github.com/imuttamsaran/caticon/blob/master/img/codeImage.png)
 
 
  
